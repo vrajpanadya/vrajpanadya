@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <h1>Hi, I'm Pandya Vraj 👋</h1>
 
@@ -159,4 +159,4 @@ If you have an interesting idea, project, or collaboration in mind, feel free to
 
 <em>Build thoughtfully · Learn continuously · Ship with care</em>
 
-</div>
+</div> -->
