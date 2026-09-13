@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Dev Prajapati 👋</h1>
+<h1>Hi, I'm Pandya Vraj 👋</h1>
 
 <h3>Full-Stack Developer · UI/UX Designer · Digital Craftsman</h3>
 
