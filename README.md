@@ -158,6 +158,7 @@ If you have an interesting idea, project, or collaboration in mind, feel free to
 <br />
 
 <em>Build thoughtfully · Learn continuously · Ship with care</em>
+-->
 DEVFORGE Hero redesign
 
 Replace these files in your FRONTEND project:
@@ -220,4 +221,4 @@ Validation
 
 The component passed strict TypeScript checking against the project's installed React, GSAP, Lenis, API helper and reduced-motion hook. The local Vite build could not start because the supplied dependency folder does not contain Rolldown's Linux native binding. No dependency files were changed in your project. Browser rendering and a live backend connection have not been tested here.
 
-</div> -->
+</div> 
